@@ -1,0 +1,19 @@
+{
+  "name": "bills-together",
+  "version": "1.0.0",
+  "description": "Webapp to share bills with friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielSMoraes/Bills-Together.git"
+  },
+  "author": "Ariel Santos Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielSMoraes/Bills-Together/issues"
+  },
+  "homepage": "https://github.com/ArielSMoraes/Bills-Together#readme"
+}
